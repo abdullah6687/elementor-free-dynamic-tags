@@ -5,6 +5,7 @@
  * Author URI: https://abdullah6687.com
  *
  * Instructions:
+ * Download the zip file and upload it as a plugin on wordpress.
  * - For Elementor Free users: Use shortcode [acf_field field="your_field_name"]
  * - For Elementor Pro users: Use the "ACF Field" option from the dynamic tag icon in any widget.
  * - You must have ACF (Advanced Custom Fields) plugin installed and active.
